@@ -1,0 +1,382 @@
+[
+    {
+        "value": 1,
+        "label": "Bev\u00f6lkerung",
+        "children": [
+            {
+                "value": 9,
+                "label": "Einwohner",
+                "children": [
+                    {
+                        "value": 60,
+                        "label": "Mehrlingsgeburten",
+                        "children": []
+                    },
+                    {
+                        "value": 65,
+                        "label": "Erstheirat",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "value": 21,
+                "label": "Staatspersonal",
+                "children": []
+            },
+            {
+                "value": 42,
+                "label": "Unf\u00e4lle",
+                "children": []
+            },
+            {
+                "value": 43,
+                "label": "Rheinschiffe",
+                "children": []
+            }
+        ]
+    },
+    {
+        "value": 2,
+        "label": "Finanzielles",
+        "children": [
+            {
+                "value": 18,
+                "label": "Steuern",
+                "children": []
+            },
+            {
+                "value": 19,
+                "label": "L\u00f6hne",
+                "children": []
+            },
+            {
+                "value": 28,
+                "label": "Bauinvestitionen",
+                "children": [
+                    {
+                        "value": 72,
+                        "label": "Fernw\u00e4rme",
+                        "children": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "value": 3,
+        "label": "Staat u. Politik",
+        "children": [
+            {
+                "value": 10,
+                "label": "Geburt u. Tod",
+                "children": []
+            },
+            {
+                "value": 13,
+                "label": "Sprache u. Religion",
+                "children": []
+            },
+            {
+                "value": 20,
+                "label": "Abstimmungen u. Wahlen",
+                "children": []
+            },
+            {
+                "value": 22,
+                "label": "Staatsausgaben",
+                "children": []
+            }
+        ]
+    },
+    {
+        "value": 4,
+        "label": "Wohnen u. Bauen",
+        "children": [
+            {
+                "value": 11,
+                "label": "Heiraten u. Scheidung",
+                "children": []
+            },
+            {
+                "value": 24,
+                "label": "Wohnungen",
+                "children": [
+                    {
+                        "value": 63,
+                        "label": "Bestattungen",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "value": 26,
+                "label": "Mietpreise",
+                "children": []
+            },
+            {
+                "value": 29,
+                "label": "Quartier",
+                "children": [
+                    {
+                        "value": 71,
+                        "label": "Erneuerbare Energien",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "value": 31,
+                "label": "Firmen u. Unternehmen",
+                "children": []
+            },
+            {
+                "value": 38,
+                "label": "Zoo u. Tierparks",
+                "children": []
+            },
+            {
+                "value": 40,
+                "label": "Wasser u. Luftqaulit\u00e4t",
+                "children": []
+            },
+            {
+                "value": 46,
+                "label": "Universit\u00e4t u. Hochschule",
+                "children": []
+            }
+        ]
+    },
+    {
+        "value": 5,
+        "label": "Arbeit",
+        "children": [
+            {
+                "value": 12,
+                "label": "Haushalte",
+                "children": [
+                    {
+                        "value": 69,
+                        "label": "Familien",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "value": 14,
+                "label": "Migration",
+                "children": [
+                    {
+                        "value": 50,
+                        "label": "Entwicklung",
+                        "children": []
+                    },
+                    {
+                        "value": 51,
+                        "label": "Prognose",
+                        "children": []
+                    },
+                    {
+                        "value": 52,
+                        "label": "Frauenanteil",
+                        "children": []
+                    },
+                    {
+                        "value": 53,
+                        "label": "Alter",
+                        "children": []
+                    },
+                    {
+                        "value": 54,
+                        "label": "Herkunft",
+                        "children": []
+                    },
+                    {
+                        "value": 55,
+                        "label": "Einheimische",
+                        "children": []
+                    },
+                    {
+                        "value": 56,
+                        "label": "Ausl\u00e4nder",
+                        "children": []
+                    },
+                    {
+                        "value": 57,
+                        "label": "Vornamen",
+                        "children": []
+                    },
+                    {
+                        "value": 59,
+                        "label": "Lebenserwartung",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "value": 15,
+                "label": "Teuerung",
+                "children": []
+            },
+            {
+                "value": 16,
+                "label": "Sozialhilfe",
+                "children": []
+            },
+            {
+                "value": 17,
+                "label": "Rente",
+                "children": [
+                    {
+                        "value": 66,
+                        "label": "Ehedauer",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "value": 25,
+                "label": "Leerstand",
+                "children": []
+            },
+            {
+                "value": 27,
+                "label": "Besch\u00e4ftigte",
+                "children": []
+            },
+            {
+                "value": 32,
+                "label": "Grenzg\u00e4nger",
+                "children": []
+            },
+            {
+                "value": 33,
+                "label": "Pendler",
+                "children": [
+                    {
+                        "value": 68,
+                        "label": "Singles",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "value": 34,
+                "label": "Berufslehre",
+                "children": []
+            },
+            {
+                "value": 48,
+                "label": "Integration",
+                "children": []
+            },
+            {
+                "value": 49,
+                "label": "Kriminalit\u00e4t",
+                "children": [
+                    {
+                        "value": 62,
+                        "label": "Todesursachen",
+                        "children": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "value": 6,
+        "label": "Freizeit",
+        "children": [
+            {
+                "value": 35,
+                "label": "Kultur",
+                "children": []
+            },
+            {
+                "value": 36,
+                "label": "Sport",
+                "children": [
+                    {
+                        "value": 70,
+                        "label": "Kinder",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "value": 37,
+                "label": "Tourismus",
+                "children": []
+            }
+        ]
+    },
+    {
+        "value": 7,
+        "label": "Umwelt u. Verkehr",
+        "children": [
+            {
+                "value": 39,
+                "label": "Energieverbrauch",
+                "children": [
+                    {
+                        "value": 67,
+                        "label": "Scheidungsrate",
+                        "children": []
+                    },
+                    {
+                        "value": 74,
+                        "label": "Fotovoltaik",
+                        "children": []
+                    },
+                    {
+                        "value": 75,
+                        "label": "Temperatur",
+                        "children": []
+                    },
+                    {
+                        "value": 76,
+                        "label": "Niederschlag",
+                        "children": []
+                    },
+                    {
+                        "value": 77,
+                        "label": "Heizgradtage",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "value": 44,
+                "label": "Klima",
+                "children": []
+            }
+        ]
+    },
+    {
+        "value": 8,
+        "label": "Gesellschaft",
+        "children": [
+            {
+                "value": 41,
+                "label": "E-Mobilit\u00e4t",
+                "children": []
+            },
+            {
+                "value": 45,
+                "label": "Schule Lernende",
+                "children": []
+            },
+            {
+                "value": 47,
+                "label": "Gesundheit",
+                "children": [
+                    {
+                        "value": 61,
+                        "label": "Sterblichkeit",
+                        "children": []
+                    }
+                ]
+            }
+        ]
+    }
+]
